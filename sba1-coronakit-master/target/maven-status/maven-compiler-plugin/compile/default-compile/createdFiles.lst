@@ -1,0 +1,8 @@
+com\iiht\evaluation\coronokit\model\CoronaKit.class
+com\iiht\evaluation\coronokit\model\ProductMaster.class
+com\iiht\evaluation\coronokit\dao\KitDao.class
+com\iiht\evaluation\coronokit\model\KitDetail.class
+com\iiht\evaluation\coronokit\model\OrderSummary.class
+com\iiht\evaluation\coronokit\controller\AdminController.class
+com\iiht\evaluation\coronokit\dao\ProductMasterDao.class
+com\iiht\evaluation\coronokit\controller\UserController.class

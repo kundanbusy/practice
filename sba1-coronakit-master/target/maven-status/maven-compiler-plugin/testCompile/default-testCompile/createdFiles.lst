@@ -1,0 +1,5 @@
+com\iiht\evaluation\coronokit\test\functional\TestUserController.class
+com\iiht\evaluation\coronokit\test\util\TestUtils.class
+com\iiht\evaluation\coronokit\test\boundary\BoundaryTest.class
+com\iiht\evaluation\coronokit\test\functional\TestAdminController.class
+com\iiht\evaluation\coronokit\test\exception\ExceptionTest.class
